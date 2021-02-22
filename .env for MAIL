@@ -1,4 +1,4 @@
-=== Using Gmail ===
+// === Using Gmail ===
 MAIL_DRIVER=smtp
 MAIL_HOST=smtp.gmail.com
 MAIL_PORT=465
@@ -6,7 +6,7 @@ MAIL_USERNAME="<yourgmail@gmail.com>"
 MAIL_PASSWORD="<password>"
 MAIL_ENCRYPTION=ssl
 
-=== Using 365 Email ===
+// === Using 365 Email ===
 MAIL_DRIVER=smtp
 MAIL_HOST=smtp.office365.com
 MAIL_PORT=587
